@@ -36,8 +36,12 @@ body{
         display: inline-block;
         margin-top: 5px;
         font-family: 'Times New Roman', Times, serif;
-}
-
-
+        background-color:grey;
+        padding:25px 49px;
+        margin-top: 12%
     
-
+}
+.about{
+    background-color: grey;
+    font-size: 22px;
+}
