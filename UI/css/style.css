@@ -5,6 +5,7 @@
     width:100%;
     font-family: 'Times New Roman', Times, serif;
     overflow:hidden;
+    text-align: center;
 }
 .menu-list ul{
     text-align: center;
@@ -43,13 +44,15 @@ body{
 }
 .about{
     background-color: grey;
-    font-size: 22px;
+    font-size: 18px;
 }
 .main-body{
     text-align: center;
     width:30%;
-    margin-top: 5%;
+    margin-top: 0%;
     background-color: lightgray;
+    margin-left: 33%
+    
 
 }
 .main-body input[type="text"]{
@@ -64,4 +67,42 @@ body{
     width:50%;
     padding: 12px 16px;
     background-color: green;
+}
+#welcome{
+    margin-top:1%;
+    padding:20px 0px;
+    margin-left:0%;
+    width:5%;
+    border: None;
+    outline:None;
+    
+}
+#welcome img{
+    height:50%;
+    width:100%;
+    
+}
+#indexcontent{
+    background-color: lightgrey;
+    width:100%;
+    margin-top: 0%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.about h3{
+    text-align: center;
+
+}
+.profilecontent{
+    background-color:lightgrey;
+    text-align:center;
+    margin-top:10%;
+    
+}
+.profilecontent button{
+    width:130px;
+    height:80px;
+    padding:30px 10px 30px 20px;
+    background-color:lightgreen;
 }
